@@ -52,8 +52,8 @@ A comprehensive mobile application designed to empower farmers in Kurdistan and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/farmlink.git
-   cd farmlink
+   git clone https://github.com/shram0077/farmlink.git](https://github.com/shram0077/FarmLink.git
+   cd FarmLink
    ```
 
 2. **Install dependencies**
@@ -119,10 +119,31 @@ To add new languages:
 1. Create new ARB file in `lib/l10n/`
 2. Add language code to `supportedLocales` in `app_localizations.dart`
 3. Run `flutter gen-l10n` to generate new localization files
-
 ## 📱 Screenshots
 
-*[Add screenshots of your app here]*
+<table>
+  <tr>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/welcome.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/Signup_Email.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/phone_registration.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/home.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/drawer.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/market.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/create_post.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/specialties.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/specialties_profile.jpg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/ai_assistance.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/profile.jpg" width="300"/></td>
+    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/bg.jpg" width="300"/></td>
+  </tr>
+</table>
+
 
 ## 🤝 Contributing
 
