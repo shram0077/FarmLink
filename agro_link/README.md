@@ -141,7 +141,6 @@ To add new languages:
     <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/ai_assistance.jpg" width="300"/></td>
     <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/profile.jpg" width="300"/></td>
     <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/languages.jpg" width="300"/></td>
-    <td><img src="https://github.com/shram0077/FarmLink/blob/main/agro_link/assets/images/bg.jpg" width="300"/></td>
   </tr>
 </table>
 
