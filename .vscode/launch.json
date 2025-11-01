@@ -1,0 +1,30 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agro_link (debug)",
+            "cwd": "agro_link",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug"
+        },
+        
+        {
+            "name": "agro_link (profile)",
+            "cwd": "agro_link",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "agro_link (release)",
+            "cwd": "agro_link",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
